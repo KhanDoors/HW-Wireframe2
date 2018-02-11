@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+font-size: 18px;
+Line-height: 34px;
+font-family: 'Ariel', 'helvetica Neue', Helvetica, sans-serif; 
+color: #777;
+}
+
+.container {
+width: 100%;
+max-width: 960px;
+margin: 0 auto;
+clear: both;
+}
+
+/*header*/
+
+#masthead {
+background: #fff;
+margin:0;
+}
