@@ -17,7 +17,7 @@ margin: 0 auto;
 clear: both;
 }
 
-h1,h2,h3, p {
+h1, h2, h3, p {
 margin-bottom: 20px;
 }
 
@@ -25,7 +25,7 @@ p:last-child {
     margin-bottom: 0;
     }
 
-    h1,h2,h3 {
+    h1, h2, h3 {
         font-family: 'Georgia', Times, Times New Roman, serif;
         font-weight: 700;
         color: #4aaaa5;
@@ -225,4 +225,4 @@ nav a {
         padding: 10px 30px;
         cursor: pointer;
     }
-    
+
